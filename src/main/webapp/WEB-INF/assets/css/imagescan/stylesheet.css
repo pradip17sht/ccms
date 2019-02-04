@@ -1,0 +1,156 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #000000;
+}
+
+
+
+td {font:10px arial; color: #fff}
+
+td.invalid{
+font:12px arial; color: #fff;
+}
+
+td.mainbg{
+		  background:url(../../images/imagescan/bg.jpg) repeat;
+		  height:500px;}
+		  
+td.mainbg-big{
+		  background:url(../../images/imagescan/bg-big.jpg) no-repeat top;
+		  height:680px;}
+		  
+td.picture{
+		width:320px;
+		height:240px;
+		background-color:#FFFFFF;}
+		
+.account-number {
+			font:bold 14px Arial, Helvetica, sans-serif;
+			color: #cccccc}
+			
+td.account-num-bg{
+		width:200px;
+		height:30px;
+		background:url(../../images/imagescan/bg-input.jpg) no-repeat left top;
+		}
+		
+td.account-num-bg-threedigit{
+		float:left;
+		width:80px;
+		height:30px;
+		background:url(../../images/imagescan/bg-input-short.jpg) no-repeat top;
+		}
+
+input.account-scan {
+		border:none;
+		background:none;
+		font:12px Arial, Helvetica, sans-serif;
+		color:#cccccc;
+		width:223px;
+		height:20px;
+		margin-top:5px;
+		margin-left:5px;}
+
+input.account-num-threedigit {
+		float:left;
+		border:none;
+		background:none;
+		font:12px Arial, Helvetica, sans-serif;
+		color:#cccccc;
+		width:65px;
+		height:20px;
+		margin-top:5px;
+		margin-left:5px;}
+		
+td.account-num-search-bg{
+		width:184px;
+		height:30px;
+		background:url(../../images/imagescan/bg-input-search.jpg) no-repeat left top;
+		}
+
+td.border-top{
+		border-top:solid 1px #555555;
+		}
+
+input.search{
+		float:left;
+		border:none;
+		background:none;
+		font:12px Arial, Helvetica, sans-serif;
+		color:#cccccc;
+		width:176px;
+		height:20px;
+		margin-top:5px;
+		margin-left:5px;}
+		
+a.search{
+        float:right;
+		width:121px;
+		height:39px;
+		background:url(../../images/imagescan/txt-searchscan-hover.jpg) no-repeat top}
+		
+a.search:hover{
+		width:121px;
+		height:39px;
+		background:url(../../images/imagescan/txt-searchscan-hover.jpg) no-repeat bottom}
+		
+a.scan{
+        float:left;
+		width:113px;
+		height:39px;
+		background:url(../../images/imagescan/txt-scan-hover.jpg) no-repeat top}
+		
+a.scan:hover{
+		width:113px;
+		height:39px;
+		background:url(../../images/imagescan/txt-scan-hover.jpg) no-repeat bottom}
+		
+a.logout{
+        float:left;
+		font:10ox Arial, Helvetica, sans-serif;
+		color:#666666;
+		text-decoration:none;
+		}
+		
+a.logout:hover{
+		color:#CCCCCC;}
+
+.separator {
+		float:left;
+		font:10px Arial, Helvetica, sans-serif;
+		color:#666666;
+		margin-left:10px;
+		margin-right:10px;}
+
+.arial12 {
+		float:left;
+		font:bold 12px Arial, Helvetica, sans-serif;
+		color:#cccccc;}
+		
+.arial18 {
+		float:left;
+		font:bold 18px Arial, Helvetica, sans-serif;
+		color:#cccccc;}
+		
+.footer {
+		font:12px Arial, Helvetica, sans-serif;
+		color:#666666;}
+		
+a.nexus {
+		font:12px Arial, Helvetica, sans-serif;
+		color:#666666;
+		text-decoration:none;}
+
+a.nexus:hover {
+		font:12px Arial, Helvetica, sans-serif;
+		color:#FFFFFF;
+		text-decoration:none;
+		}
+		
+		
+
+a.download{font:10px Arial; color:#FFFFFF; text-decoration:none;}
+a.download:hover{font:10px Arial; color:#FFFFFF; text-decoration:underline;}
